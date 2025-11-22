@@ -4,5 +4,6 @@ int main() {
     printf("First change\n");
     printf("Second change\n");
     printf("Third change\n");
+    printf("Added to New branch\n");
     return 0;
 }
